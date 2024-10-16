@@ -4,9 +4,12 @@
     pass
 
  
-# With quicksort() function, we will be utilizing the above code to obtain the pointer
-# at which the left values are all smaller than the number at pointer index and vice versa
-# for the right values.
+// Merges two subarrays of arr[].
+// First subarray is arr[l..m]
+// Second subarray is arr[m+1..r]
+void merge(int arr[], int l,
+		int m, int r)
+
  
  
  
