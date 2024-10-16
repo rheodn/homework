@@ -1,0 +1,1 @@
+C is a general_purpose computer programng languge. It was created in 1970s by Dennis Ritchie, and remains very widely used and influential.
